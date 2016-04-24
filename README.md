@@ -1,2 +1,2 @@
 # tweet_books
-send a little bite of greate book in 140 charactere
+send a little bite of great book in 140 character
